@@ -1,0 +1,35 @@
+10
+
+dir
+0
+http://192.168.15.113/svn/tanstaafa/Iphone%20QS/Aggregate/build/Aggregate.build/Debug-iphoneos
+http://192.168.15.113/svn/tanstaafa
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+645063a0-a622-43f3-8360-f8d66b0abd2c
+
+Aggregate.build
+dir
+
+
+
+add
+
