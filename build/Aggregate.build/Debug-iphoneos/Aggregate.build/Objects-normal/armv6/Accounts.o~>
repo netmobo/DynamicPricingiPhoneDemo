@@ -1,0 +1,2 @@
+/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Accounts.m: In function '-[Accounts rechargeAccountManual:withAmount:withReferenceID:withTransactionType:andReason:]':
+/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Accounts.m:212: warning: unused variable 'netmoboFeefactorModel'
