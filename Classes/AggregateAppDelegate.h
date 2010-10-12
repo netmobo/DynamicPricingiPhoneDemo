@@ -16,10 +16,6 @@
 @class AddMoneyToBalanceViewController;
 @class AccountHistoryViewController;
 
-// FeeFactor
-@class RestTransport3;
-@class XmlParser;
-
 @interface AggregateAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
     AggregateViewController *viewController;
@@ -33,9 +29,6 @@
 	
 	UINavigationController *navController;
 	
-	// FeeFactor
-	RestTransport3 *transport3;
-    XmlParser *xmlParser;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
@@ -49,10 +42,6 @@
 @property (nonatomic, retain) AccountHistoryViewController *accountHistoryViewController;
 
 @property (nonatomic, retain) UINavigationController *navController;
-
-// FeeFactor
-@property (nonatomic, retain) RestTransport3 *transport3;
-@property (nonatomic, retain) XmlParser *xmlParser;
 
 - (void) goFrom:(NSString *) aFrom to:(NSString *) aTo;
 - (void) goHome;

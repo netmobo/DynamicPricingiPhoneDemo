@@ -19,6 +19,8 @@
 #import "PurchaseProducts.h"
 
 // FeeFactor
+#import "NetmoboFeefactorModel.h"
+
 #import "RestTransport3.h"
 #import "XmlParser.h"
 #import "GDataXMLNode.h"
@@ -50,29 +52,26 @@
 @synthesize addMoneyToBalanceViewController;
 @synthesize accountHistoryViewController;
 
-// FeeFactor
-@synthesize transport3;
-@synthesize xmlParser;
-
 #pragma mark -
 #pragma mark Fee Factor Methods
 
 - (NSString *) loginWithUser:(NSString *) aUser andPassword:(NSString *) aPassword {
+	NetmoboFeefactorModel *netmoboFeefactorModel = [NetmoboFeefactorModel sharedModel];
 	Model *model = [Model sharedModel];
 	
-	[transport3.config setSchema:@"http"];
-	[transport3.config setHost:@"70.42.72.151"];
-	[transport3.config setPort:@"12345"]; 
-	[transport3.config setServiceUrl:@"/feefactor/rest"];
-	[transport3.config setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], aUser] ];
-	[transport3.config setPassWord:aPassword];
-	[transport3.config setEncode:@"UTF-8"];
-	[transport3.config setRealm:@"feefactor"];
+	[netmoboFeefactorModel setSchema:@"http"];
+	[netmoboFeefactorModel setHost:@"70.42.72.151"];
+	[netmoboFeefactorModel setPort:@"12345"]; 
+	[netmoboFeefactorModel setServiceUrl:@"/feefactor/rest"];
+	[netmoboFeefactorModel setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], aUser] ];
+	[netmoboFeefactorModel setPassWord:aPassword];
+	[netmoboFeefactorModel setEncode:@"UTF-8"];
+	[netmoboFeefactorModel setRealm:@"feefactor"];
 	
 	Accounts *accountsInterface = [[Accounts alloc] init];
 	NSArray *accounts = [[accountsInterface getAccounts:@"" andSort:@"" andPageItems:[NSNumber numberWithInt:1] andPageNumber:[NSNumber numberWithInt:1]] accountResults];
 	
-	if ([transport3.config.errorCode isEqualToString:@"none"]) {
+	if ([[netmoboFeefactorModel errorCode] isEqualToString:@"none"]) {
 		Account *account = [accounts objectAtIndex:0];
 		[model setUserID:[account.userID stringValue]];
 		[model setSerialNumber:[account.serialNumber stringValue]];	
@@ -81,7 +80,7 @@
 		[model setUserName:aUser];
 		[model setPassWord:aPassword];
 	}
-	return transport3.config.errorCode;
+	return [netmoboFeefactorModel errorCode];
 }
 
 - (NSString *) signupUser:(NSString *) aUser 
@@ -89,16 +88,17 @@
 				 question:(NSString *) aQuestion 
 				   answer:(NSString *) aAnswer 
 					email:(NSString *) aEmail {
+	NetmoboFeefactorModel *netmoboFeefactorModel = [NetmoboFeefactorModel sharedModel];
 	Model *model = [Model sharedModel];
 	
-	[transport3.config setSchema:@"http"];
-	[transport3.config setHost:@"70.42.72.151"];
-	[transport3.config setPort:@"12345"]; 
-	[transport3.config setServiceUrl:@"/feefactor/rest"];
-	[transport3.config setUserName:[NSString stringWithFormat:@"brand|%@", [model brandID]] ];
-	[transport3.config setPassWord:[model domain]];
-	[transport3.config setEncode:@"UTF-8"];
-	[transport3.config setRealm:@"feefactor"];
+	[netmoboFeefactorModel setSchema:@"http"];
+	[netmoboFeefactorModel setHost:@"70.42.72.151"];
+	[netmoboFeefactorModel setPort:@"12345"]; 
+	[netmoboFeefactorModel setServiceUrl:@"/feefactor/rest"];
+	[netmoboFeefactorModel setUserName:[NSString stringWithFormat:@"brand|%@", [model brandID]] ];
+	[netmoboFeefactorModel setPassWord:[model domain]];
+	[netmoboFeefactorModel setEncode:@"UTF-8"];
+	[netmoboFeefactorModel setRealm:@"feefactor"];
 	
 	User *newUser = [[User alloc] init];
 	[newUser setUsername:aUser];
@@ -111,21 +111,21 @@
 	
 	NSNumber *newUserID = [NSNumber numberWithInt:[newSignup insertUser:newUser andParams:@"new user signup"]];
 	
-	if ([transport3.config.errorCode isEqualToString:@"none"]) {
+	if ([[netmoboFeefactorModel errorCode] isEqualToString:@"none"]) {
 	
 		// start: optional
 		
 		[model setUserName:aUser];
 		[model setPassWord:aPassword];
 		
-		[transport3.config setSchema:@"http"];
-		[transport3.config setHost:@"70.42.72.151"];
-		[transport3.config setPort:@"12345"]; 
-		[transport3.config setServiceUrl:@"/feefactor/rest"];
-		[transport3.config setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], aUser] ];
-		[transport3.config setPassWord:aPassword];
-		[transport3.config setEncode:@"UTF-8"];
-		[transport3.config setRealm:@"feefactor"];
+		[netmoboFeefactorModel setSchema:@"http"];
+		[netmoboFeefactorModel setHost:@"70.42.72.151"];
+		[netmoboFeefactorModel setPort:@"12345"]; 
+		[netmoboFeefactorModel setServiceUrl:@"/feefactor/rest"];
+		[netmoboFeefactorModel setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], aUser] ];
+		[netmoboFeefactorModel setPassWord:aPassword];
+		[netmoboFeefactorModel setEncode:@"UTF-8"];
+		[netmoboFeefactorModel setRealm:@"feefactor"];
 		
 		UserQuestion *newUserQuestion = [[UserQuestion alloc] init];
 		[newUserQuestion setUserID:newUserID];
@@ -138,10 +138,10 @@
 		[newUserQuestion setQuestionID:newQuestionID];
 		
 		// end optional
-		[transport3.config setErrorCode:@"none"];
+		[netmoboFeefactorModel setErrorCode:@"none"];
 		return @"none"; // no error despite erroneous error generated by insertUserQuestion method
 	} else {
-		return transport3.config.errorCode;
+		return [netmoboFeefactorModel errorCode];
 	}
 	
 //	[newUsers release];
@@ -261,6 +261,7 @@
 }
 
 - (NSString *) rechargeViaCreditCard {
+	NetmoboFeefactorModel *netmoboFeefactorModel = [NetmoboFeefactorModel sharedModel];
 	Model *model = [Model sharedModel];
 	
 	CardPayments *gatewayInterface = [[CardPayments alloc] init];
@@ -278,7 +279,7 @@
 	}
 	
 	long cardHistoryID;
-	if ([transport3.config.errorCode isEqualToString:@"none"]) {
+	if ([[netmoboFeefactorModel errorCode] isEqualToString:@"none"]) {
 		cardHistoryID = [gatewayInterface rechargeAccountViaCC:sandboxGatewayID 
 									withSerial:[NSNumber numberWithLong:[[model serialNumber] longLongValue]] 
 									   andLoad:[NSNumber numberWithFloat:[[model currentRechargeAmount] floatValue]] 
@@ -298,15 +299,15 @@
 								   andCardType:[model currentCardType] 
 										andCvv:[model securityCode] 
 								 andDescripion:@"" 
-						  andMerchatDescriptor:@"" 
-							   andMerchatPhone:@"" 
+						  andMerchantDescriptor:@"" 
+							   andMerchantPhone:@"" 
 									andComment:@"" 
 									 andReason:@""];
 		
 		result = [NSString stringWithFormat:@"%l", cardHistoryID];
 		
 	} else {
-		result = transport3.config.errorCode;
+		result = [netmoboFeefactorModel errorCode];
 	}
 //	[gatewayInterface release];
 	
@@ -315,21 +316,22 @@
 
 // -(int)rechargeAccountManual:(NSNumber *)serialNumber withAmount:(NSNumber *) amount withReferentceID:(NSString *) referenceID withTransactionType:(NSString *)transactionType andReason:(NSString *)reason{
 - (void) rechargeViaInAppPurchaseWithAmount:(NSNumber *) aAmount andReceipt:(NSString *) aReceipt {
+	NetmoboFeefactorModel *netmoboFeefactorModel = [NetmoboFeefactorModel sharedModel];
 	Model *model = [Model sharedModel];
 	
-	[transport3.config setUserName:@"brandidusername" ];
-	[transport3.config setPassWord:@"brandidpassword"];
+	[netmoboFeefactorModel setUserName:@"gabo_ba" ];
+	[netmoboFeefactorModel setPassWord:@"2e39abad0f271bc8dc27917e142be998"];
 	
 	Accounts *accountsInterface = [[Accounts alloc] init];
 	
 	[accountsInterface rechargeAccountManual:[NSNumber numberWithLong:[[model serialNumber] longLongValue]] 
 												 withAmount:aAmount 
-										   withReferentceID:aReceipt 
+										   withReferenceID:aReceipt 
 										withTransactionType:@"Apple In-App Purchase" 
 												  andReason:@"Recharge via Apple In-App Purchase"];
 	
-	[transport3.config setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], [model userName]] ];
-	[transport3.config setPassWord:[model passWord]];
+	[netmoboFeefactorModel setUserName:[NSString stringWithFormat:@"%@|%@", [model brandID], [model userName]] ];
+	[netmoboFeefactorModel setPassWord:[model passWord]];
 }
 
 #pragma mark -
@@ -421,8 +423,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
     
     // Override point for customization after application launch.
-	transport3 = [[RestTransport3 alloc] init];
-    xmlParser = [[XmlParser alloc] init];
 	
 	Model *model = [Model sharedModel];
 	if ([[model isLoggedIn] isEqualToString:@"Y"]) {
@@ -495,8 +495,6 @@
 
 - (void)dealloc {
 	// feefactor
-	[transport3 release];
-	[xmlParser release];
 	
 	[accountHistoryViewController release];
 	[addMoneyToBalanceViewController release];
