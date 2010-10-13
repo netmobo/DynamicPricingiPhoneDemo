@@ -7574,6 +7574,1095 @@ c000000004C84645C0000000000000D50
 t1283744860
 s3408
 
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Account.h
+c000000004CABC7C800000000000011AC
+t1286326216
+s4524
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountHistory.h
+c000000004CABC7C8000000000000098C
+t1286326216
+s2444
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountHistoryCell.xib
+c000000004C86D6670000000000007340
+t1283905127
+s29504
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountHistorySearchResult.h
+c000000004CABC7C80000000000000736
+t1286326216
+s1846
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountPlan.h
+c000000004CABC7C800000000000008EA
+t1286326216
+s2282
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountPlanSearchResult.h
+c000000004CABC7C8000000000000071C
+t1286326216
+s1820
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountRC.h
+c000000004CABC7C80000000000000B56
+t1286326216
+s2902
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountRCSearchResult.h
+c000000004CABC7C80000000000000711
+t1286326216
+s1809
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountSearchResult.h
+c000000004CABC7C90000000000000715
+t1286326217
+s1813
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Accounts.h
+c000000004CB29FCD000000000000116B
+t1286774733
+s4459
+i<Foundation/Foundation.h>
+i"Account.h"
+i"AccountHistory.h"
+i"AccountSearchResult.h"
+i"AccountRC.h"
+i"AccountRCSearchResult.h"
+i"AccountPlanSearchResult.h"
+i"AccountPlan.h"
+i"AccountHistorySearchResult.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AggregateViewController.xib
+c000000004C8462DB0000000000004720
+t1283744475
+s18208
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Aggregate_Prefix.pch
+c000000004C8095B200000000000000BB
+t1283495346
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProduct.h
+c000000004CABC7C900000000000009E3
+t1286326217
+s2531
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductBaserate.h
+c000000004CABC7C90000000000000931
+t1286326217
+s2353
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductBaserateSearchResult.h
+c000000004CABC7C9000000000000072E
+t1286326217
+s1838
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductPlanPrice.h
+c000000004CABC7C900000000000008DE
+t1286326217
+s2270
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductPlanPriceSearchResult.h
+c000000004CABC7C90000000000000727
+t1286326217
+s1831
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductPrice.h
+c000000004CABC7C900000000000008D6
+t1286326217
+s2262
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductPriceSearchResult.h
+c000000004CABC7C9000000000000071F
+t1286326217
+s1823
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductSchedule.h
+c000000004CABC7C900000000000008BF
+t1286326217
+s2239
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductScheduleSearchResult.h
+c000000004CABC7C9000000000000072F
+t1286326217
+s1839
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandProductSearchResult.h
+c000000004CABC7C9000000000000070F
+t1286326217
+s1807
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandService.h
+c000000004CABC7C900000000000009DA
+t1286326217
+s2522
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandServiceSearchResult.h
+c000000004CABC7C90000000000000711
+t1286326217
+s1809
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/BrandServices.h
+c000000004CABC7C900000000000011AC
+t1286326217
+s4524
+i<Foundation/Foundation.h>
+i"RestTransport3.h"
+i"XmlParser.h"
+i"BrandProductSchedule.h"
+i"BrandProductSearchResult.h"
+i"BrandProduct.h"
+i"BrandProductBaserate.h"
+i"BrandServiceSearchResult.h"
+i"BrandProductScheduleSearchResult.h"
+i"BrandProductBaserateSearchResult.h"
+i"BrandService.h"
+i"BrandProductPrice.h"
+i"BrandProductPriceSearchResult.h"
+i"BrandProductPlanPrice.h"
+i"BrandProductPlanPriceSearchResult.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardEntry.h
+c000000004C8776F900000000000005E2
+t1283946233
+s1506
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardEntry.m
+c000000004C8776F90000000000000641
+t1283946233
+s1601
+i"CardEntry.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardPayments.h
+c000000004CABC7C90000000000001B98
+t1286326217
+s7064
+i<Foundation/Foundation.h>
+i"RestTransport3.h"
+i"XmlParser.h"
+i"UserCard.h"
+i"UserBankAccount.h"
+i"CardTransactionHistory.h"
+i"UserCardSearchResult.h"
+i"CardTransactionHistorySearchResult.h"
+i"UserBankAccountSearchResult.h"
+i"UserPaymentAuthorization.h"
+i"UserPaymentAuthorizationSearchResult.h"
+i"PaymentGateway.h"
+i"PaymentGatewaySearchResult.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardTransactionHistory.h
+c000000004CABC7C90000000000000FDC
+t1286326217
+s4060
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardTransactionHistorySearchResult.h
+c000000004CABC7C90000000000000739
+t1286326217
+s1849
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AccountHistoryViewController.h
+c000000004C91D0210000000000000345
+t1284624417
+s837
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AccountHistoryViewController.m
+c000000004C887D8600000000000016DC
+t1284013446
+s5852
+i"AccountHistoryViewController.h"
+i"AggregateAppDelegate.h"
+i"Model.h"
+i"History.h"
+i"HistoryTableCell.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AccountHistoryViewController.xib
+c000000004C86D6930000000000007B78
+t1283905171
+s31608
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardExpirationViewController.h
+c000000004C906D170000000000000447
+t1284533527
+s1095
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardExpirationViewController.m
+c000000004C90A1D20000000000010176
+t1284547026
+s65910
+i"AddMoneyCardExpirationViewController.h"
+i"Model.h"
+i"Country.h"
+i"State.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardExpirationViewController.xib
+c000000004C873E170000000000005B70
+t1283931671
+s23408
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardTextEntryViewController.h
+c000000004C88399F0000000000000270
+t1283996063
+s624
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardTextEntryViewController.m
+c000000004C8DC68300000000000017A0
+t1284359811
+s6048
+i"AddMoneyCardTextEntryViewController.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardTextEntryViewController.xib
+c000000004C883E4A0000000000005C4F
+t1283997258
+s23631
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardViewController.h
+c000000004C87820D00000000000001BF
+t1283949069
+s447
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardViewController.m
+c000000004C9071560000000000001BB1
+t1284534614
+s7089
+i"AddMoneyCardViewController.h"
+i"AddMoneyCardExpirationViewController.h"
+i"Model.h"
+i"AddMoneyCardTextEntryViewController.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardViewController.xib
+c000000004C87250C0000000000005A69
+t1283925260
+s23145
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyEditViewController.h
+c000000004C8776F90000000000000346
+t1283946233
+s838
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyEditViewController.m
+c000000004C984B5400000000000014BE
+t1285049172
+s5310
+i"AddMoneyEditViewController.h"
+i"Model.h"
+i"AddMoneyCardViewController.h"
+i"AddMoneyInAppPurchaseViewController.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyEditViewController.xib
+c000000004C8703D600000000000066D3
+t1283916758
+s26323
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyInAppPurchaseViewController.h
+c000000004C984BA900000000000001C1
+t1285049257
+s449
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyInAppPurchaseViewController.m
+c000000004CA063090000000000000FF6
+t1285579529
+s4086
+i"AddMoneyInAppPurchaseViewController.h"
+i"AggregateAppDelegate.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyInAppPurchaseViewController.xib
+c000000004C9848D800000000000046A1
+t1285048536
+s18081
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyToBalanceViewController.h
+c000000004CA073020000000000000424
+t1285583618
+s1060
+i<UIKit/UIKit.h>
+i<StoreKit/StoreKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyToBalanceViewController.m
+c000000004CA073D700000000000031E7
+t1285583831
+s12775
+i"AddMoneyToBalanceViewController.h"
+i"AggregateAppDelegate.h"
+i"Model.h"
+i"AddMoneyEditViewController.h"
+i"AddMoneyInAppPurchaseViewController.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyToBalanceViewController.xib
+c000000004CA06EC30000000000009AE1
+t1285582531
+s39649
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateAppDelegate.h
+c000000004CB29A3D00000000000009C1
+t1286773309
+s2497
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateAppDelegate.m
+c000000004CB29FD700000000000050BF
+t1286774743
+s20671
+i"AggregateAppDelegate.h"
+i"Model.h"
+i"AggregateViewController.h"
+i"LoginViewController.h"
+i"SignUpViewController.h"
+i"HomeViewController.h"
+i"PurchasePluginsViewController.h"
+i"AddMoneyToBalanceViewController.h"
+i"AccountHistoryViewController.h"
+i"History.h"
+i"PurchaseProducts.h"
+i"NetmoboFeefactorModel.h"
+i"RestTransport3.h"
+i"XmlParser.h"
+i"GDataXMLNode.h"
+i"Account.h"
+i"Accounts.h"
+i"BrandServices.h"
+i"BrandProduct.h"
+i"BrandProductPrice.h"
+i"Transactions.h"
+i"UserCard.h"
+i"CardPayments.h"
+i"PaymentGateway.h"
+i"PaymentGatewaySearchResult.h"
+i"User.h"
+i"Users.h"
+i"SelfSignUp.h"
+i"UserQuestion.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateViewController.h
+c000000004C8776F900000000000000F9
+t1283946233
+s249
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateViewController.m
+c000000004C8776F9000000000000067F
+t1283946233
+s1663
+i"AggregateViewController.h"
+i"AggregateAppDelegate.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/DescriptionAndNumberCell.h
+c000000004C8776F900000000000001FC
+t1283946233
+s508
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/DescriptionAndNumberCell.m
+c000000004C888E870000000000000420
+t1284017799
+s1056
+i"DescriptionAndNumberCell.h"
+i"DescriptionAndNumber.h"
+i"Label2.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/HomeViewController.h
+c000000004C8879AA00000000000002A4
+t1284012458
+s676
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/HomeViewController.m
+c000000004C887B95000000000000112F
+t1284012949
+s4399
+i"HomeViewController.h"
+i"AggregateAppDelegate.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/HomeViewController.xib
+c000000004C887B2B00000000000086E4
+t1284012843
+s34532
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/LoginViewController.h
+c000000004C88699500000000000001D2
+t1284008341
+s466
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/LoginViewController.m
+c000000004C886A3D0000000000000BD5
+t1284008509
+s3029
+i"LoginViewController.h"
+i"AggregateAppDelegate.h"
+i"SignUpViewController.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/LoginViewController.xib
+c000000004C883F880000000000007304
+t1283997576
+s29444
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/PurchasePluginsViewController.h
+c000000004C91D036000000000000038F
+t1284624438
+s911
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/PurchasePluginsViewController.m
+c000000004C88910D0000000000001D7A
+t1284018445
+s7546
+i"PurchasePluginsViewController.h"
+i"AggregateAppDelegate.h"
+i"Model.h"
+i"DescriptionAndNumber.h"
+i"DescriptionAndNumberCell.h"
+i"PurchaseProducts.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/PurchasePluginsViewController.xib
+c000000004C8890DD000000000000945F
+t1284018397
+s37983
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUp2ViewController.h
+c000000004C8776F900000000000002D0
+t1283946233
+s720
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUp2ViewController.m
+c000000004C9C33E600000000000017CD
+t1285305318
+s6093
+i"SignUp2ViewController.h"
+i"AggregateAppDelegate.h"
+i"TextEntryCell.h"
+i"Entry.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUp2ViewController.xib
+c000000004C85F5580000000000006BB5
+t1283847512
+s27573
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUpViewController.h
+c000000004C8776F9000000000000033F
+t1283946233
+s831
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUpViewController.m
+c000000004C99C2A600000000000017CE
+t1285145254
+s6094
+i"SignUpViewController.h"
+i"AggregateAppDelegate.h"
+i"TextEntryCell.h"
+i"Entry.h"
+i"SignUp2ViewController.h"
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUpViewController.xib
+c000000004C85F5430000000000006B03
+t1283847491
+s27395
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Country.h
+c000000004C8DE0C30000000000000156
+t1284366531
+s342
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Country.m
+c000000004C8DE0C90000000000000130
+t1284366537
+s304
+i"Country.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/DescriptionAndNumber.h
+c000000004C8776FA00000000000001B0
+t1283946234
+s432
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/DescriptionAndNumber.m
+c000000004C8776FA0000000000000204
+t1283946234
+s516
+i"DescriptionAndNumber.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Entry.h
+c000000004C8776FA00000000000001BA
+t1283946234
+s442
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Entry.m
+c000000004C8776FA000000000000020F
+t1283946234
+s527
+i"Entry.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/GDataXMLNode.h
+c000000004CABC7BC00000000000022FB
+t1286326204
+s8955
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/History.h
+c000000004C8776FA000000000000020C
+t1283946234
+s524
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/History.m
+c000000004C8776FA0000000000000257
+t1283946234
+s599
+i"History.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/HistoryTableCell.h
+c000000004C8776FA000000000000023D
+t1283946234
+s573
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/HistoryTableCell.m
+c000000004C8776FA0000000000000293
+t1283946234
+s659
+i"HistoryTableCell.h"
+i"History.h"
+i"Label2.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Icon.png
+c000000004C92E226000000000000252F
+t1284694566
+s9519
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Image.h
+c000000004CABC7CA0000000000000731
+t1286326218
+s1841
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Label2.h
+c000000004C8776FA00000000000001CC
+t1283946234
+s460
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Label2.m
+c000000004C8776FA0000000000000639
+t1283946234
+s1593
+i"Label2.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/MainWindow.xib
+c000000004C8095B20000000000004E41
+t1283495346
+s20033
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/MerchantItemData.h
+c000000004C8852E200000000000003CC
+t1284002530
+s972
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/MerchantItemData.m
+c000000004C8855880000000000000902
+t1284003208
+s2306
+i"MerchantItemData.h"
+i<QuartzCore/QuartzCore.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Model.h
+c000000004C99CD9A0000000000000AC9
+t1285148058
+s2761
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Model.m
+c000000004C99CF270000000000000D1E
+t1285148455
+s3358
+i"Model.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/NetmoboFeefactorModel.h
+c000000004CAED68F000000000000098B
+t1286526607
+s2443
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PaymentGateway.h
+c000000004CABC7CA0000000000000921
+t1286326218
+s2337
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PaymentGatewaySearchResult.h
+c000000004CAED3B50000000000000735
+t1286525877
+s1845
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Profile.h
+c000000004CABC7CA0000000000000D3C
+t1286326218
+s3388
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PurchasePluginsCell.xib
+c000000004C86340E0000000000006A78
+t1283863566
+s27256
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PurchaseProducts.h
+c000000004C888B030000000000000294
+t1284016899
+s660
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PurchaseProducts.m
+c000000004C888B0500000000000002F2
+t1284016901
+s754
+i"PurchaseProducts.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/RestTransport3.h
+c000000004CABC7CA0000000000000919
+t1286326218
+s2329
+i<Foundation/Foundation.h>
+i"XmlParser.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/SelfSignUp.h
+c000000004CABC7CA0000000000000988
+t1286326218
+s2440
+i<Foundation/Foundation.h>
+i"User.h"
+i"UserQuestionSearchResult.h"
+i"UserQuestion.h"
+i"RestTransport3.h"
+i"XmlParser.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/State.h
+c000000004C906CBE00000000000001AA
+t1284533438
+s426
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/State.m
+c000000004C906CDE0000000000000166
+t1284533470
+s358
+i"State.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TextEntryCell.h
+c000000004C8776FA0000000000000199
+t1283946234
+s409
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TextEntryCell.m
+c000000004C8776FA000000000000032C
+t1283946234
+s812
+i"TextEntryCell.h"
+i"Entry.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TextEntryCell.xib
+c000000004C86FF8C00000000000061FA
+t1283915660
+s25082
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TransactionDetailRecord.h
+c000000004CABC7CA00000000000010A5
+t1286326218
+s4261
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TransactionDetailRecordSearchResult.h
+c000000004CABC7CA000000000000073A
+t1286326218
+s1850
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Transactions.h
+c000000004CABC7CA00000000000011E1
+t1286326218
+s4577
+i<Foundation/Foundation.h>
+i"TransactionDetailRecord.h"
+i"TransactionDetailRecordSearchResult.h"
+i"RestTransport3.h"
+i"XmlParser.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/User.h
+c000000004CABC7CA0000000000000AAB
+t1286326218
+s2731
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserBankAccount.h
+c000000004CABC7CA0000000000000AFB
+t1286326218
+s2811
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserBankAccountSearchResult.h
+c000000004CABC7CA0000000000000736
+t1286326218
+s1846
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserCard.h
+c000000004CABC7CA0000000000000C83
+t1286326218
+s3203
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserCardSearchResult.h
+c000000004CABC7CA0000000000000714
+t1286326218
+s1812
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserPaymentAuthorization.h
+c000000004CABC7CA0000000000000A22
+t1286326218
+s2594
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserPaymentAuthorizationSearchResult.h
+c000000004CABC7CA000000000000072D
+t1286326218
+s1837
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserQuestion.h
+c000000004CABC7CA000000000000083B
+t1286326218
+s2107
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserQuestionSearchResult.h
+c000000004CABC7CA0000000000000718
+t1286326218
+s1816
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/UserSearchResult.h
+c000000004CABC7CA0000000000000706
+t1286326218
+s1798
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Users.h
+c000000004CABC7CA0000000000000CCA
+t1286326218
+s3274
+i<Foundation/Foundation.h>
+i"RestTransport3.h"
+i"XmlParser.h"
+i"User.h"
+i"UserSearchResult.h"
+i"UserQuestion.h"
+i"UserQuestionSearchResult.h"
+i"Profile.h"
+i"Image.h"
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/XmlParser.h
+c000000004CABF8A100000000000007B1
+t1286338721
+s1969
+i<Foundation/Foundation.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/blueButton_noshadow.png
+c000000004C8464AB0000000000000D6F
+t1283744939
+s3439
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AccountHistoryViewController.o
+t1286784830
+s72184
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardExpirationViewController.o
+t1286784831
+s230984
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardTextEntryViewController.o
+t1286784831
+s59076
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardViewController.o
+t1286784830
+s58784
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyEditViewController.o
+t1286784830
+s58564
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyInAppPurchaseViewController.o
+t1286784831
+s52012
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyToBalanceViewController.o
+t1286784830
+s92332
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateAppDelegate.o
+t1286784829
+s106916
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateViewController.o
+t1286784829
+s43376
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/CardEntry.o
+t1286784831
+s22084
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Country.o
+t1286784831
+s8892
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumber.o
+t1286784830
+s10048
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumberCell.o
+t1286784830
+s40208
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Dynamic Pricing Quickstart.LinkFileList
+c000000004CB2C73C000000000000113C
+t1286784828
+s4412
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Entry.o
+t1286784830
+s9720
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/History.o
+t1286784830
+s10844
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HistoryTableCell.o
+t1286784830
+s38736
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HomeViewController.o
+t1286784830
+s64776
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Label2.o
+t1286784830
+s38068
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/LoginViewController.o
+t1286784829
+s57024
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/MerchantItemData.o
+t1286784831
+s22488
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Model.o
+t1286784830
+s48328
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchasePluginsViewController.o
+t1286784830
+s78672
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchaseProducts.o
+t1286784831
+s12600
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUp2ViewController.o
+t1286784830
+s65824
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUpViewController.o
+t1286784830
+s64932
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/State.o
+t1286784831
+s9976
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/TextEntryCell.o
+t1286784830
+s37876
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/main.o
+t1286784829
+s6336
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app
+t1286784831
+s884
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app.dSYM
+t1286784831
+s102
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AccountHistoryCell.nib
+t1285227061
+s4040
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AccountHistoryViewController.nib
+t1285227061
+s4804
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyCardExpirationViewController.nib
+t1285227062
+s3351
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyCardTextEntryViewController.nib
+t1285227062
+s3440
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyCardViewController.nib
+t1285227062
+s3476
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyEditViewController.nib
+t1285227061
+s3943
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyInAppPurchaseViewController.nib
+t1285227062
+s1779
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AddMoneyToBalanceViewController.nib
+t1285664844
+s6500
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/AggregateViewController.nib
+t1285227058
+s2447
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart
+t1286784831
+s723568
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/HomeViewController.nib
+t1285227058
+s5364
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Icon.png
+t1285227062
+s9519
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Info.plist
+t1285227057
+s689
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/LoginViewController.nib
+t1285227058
+s4639
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/MainWindow.nib
+t1285227058
+s1685
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/PkgInfo
+t1285227057
+s8
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/PurchasePluginsCell.nib
+t1285227061
+s3718
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/PurchasePluginsViewController.nib
+t1285227060
+s5759
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/SignUp2ViewController.nib
+t1285227060
+s4043
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/SignUpViewController.nib
+t1285227059
+s4049
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/TextEntryCell.nib
+t1285227059
+s3528
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/blueButton_noshadow.png
+t1285227058
+s3439
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/grayline.png
+t1285227060
+s185
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/whitebutton_noshadow.png
+t1285227058
+s3408
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/grayline.png
+c000000004C71C00500000000000000B9
+t1282523141
+s185
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/libNetmobo.a
+c000000004CB2C4FA000000000043E064
+t1286784250
+s4448356
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/main.m
+c000000004C8776FA000000000000015C
+t1283946234
+s348
+i<UIKit/UIKit.h>
+
+N/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/whitebutton_noshadow.png
+c000000004C84645C0000000000000D50
+t1283744860
+s3408
+
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
 c000000004C6BAA260000000000000132
 t1282124326
@@ -7670,6 +8759,10 @@ s15232016
 N/var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gmmeffekwwvoixdjehfwahdrdlwh/Aggregate_Prefix.pch.gch
 t1285664845
 s15232016
+
+N/var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gqovdtsdsslpxydujylrwgnifjep/Aggregate_Prefix.pch.gch
+t2
+s0
 
 N/var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gwbjuslylkrbzhcihkhsyfoxmmle/Aggregate_Prefix.pch.gch
 t1286784829
@@ -7930,6 +9023,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@96"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AccountHistoryViewController.m308466286#308466286#0(0"0(0#0#88"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AccountHistoryViewController.m8634414688#2300"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AccountHistoryViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AccountHistoryViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AccountHistoryViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AccountHistoryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AccountInvoice.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/AccountInvoice.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357650.406719
@@ -8451,6 +9547,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@104"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardExpirationViewController.m308466286#308466287#0(0"0(0#0#96"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardExpirationViewController.m8634578272#2316"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardExpirationViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardExpirationViewController.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardExpirationViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardExpirationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardTextEntryViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AddMoneyCardTextEntryViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.418696
 e307357647.543200
@@ -8502,6 +9601,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@103"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardTextEntryViewController.m308466286#308466287#0(0"0(0#0#95"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardTextEntryViewController.m8631044576#2314"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardTextEntryViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardTextEntryViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardTextEntryViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardTextEntryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AddMoneyCardViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.165725
@@ -8555,6 +9657,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@94"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardViewController.m308466286#308466286#0(0"0(0#0#86"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardViewController.m8620115008#2296"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyCardViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardViewController.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyCardViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyEditViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AddMoneyEditViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.114980
 e307357647.246293
@@ -8606,6 +9711,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@94"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyEditViewController.m308466286#308466286#0(0"0(0#0#86"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyEditViewController.m8622576704#2296"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyEditViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyEditViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyEditViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyEditViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyInAppPurchaseViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AddMoneyInAppPurchaseViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357651.894428
@@ -8659,6 +9767,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@103"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyInAppPurchaseViewController.m308466287#308466287#0(0"0(0#0#95"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyInAppPurchaseViewController.m8631437152#2314"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyInAppPurchaseViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyInAppPurchaseViewController.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyInAppPurchaseViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyInAppPurchaseViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyToBalanceViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AddMoneyToBalanceViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.751079
 e307357646.964796
@@ -8710,6 +9821,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@99"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyToBalanceViewController.m308466286#308466286#0(0"0(0#0#91"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyToBalanceViewController.m8622579520#2306"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AddMoneyToBalanceViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyToBalanceViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AddMoneyToBalanceViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyToBalanceViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateAppDelegate.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AggregateAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357645.911017
@@ -8763,6 +9877,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@88"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateAppDelegate.m308466284#308466285#0(0"0(0#0#80"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateAppDelegate.m8633863104#2284"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateAppDelegate.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateAppDelegate.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateAppDelegate.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/AggregateViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.120333
 e307357646.207916
@@ -8814,6 +9931,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@91"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateViewController.m308466285#308466285#0(0"0(0#0#83"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateViewController.m8633872992#2290"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/AggregateViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/AggregateViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AggregateViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/BillingRecord.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/BillingRecord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357650.560606
@@ -9608,6 +10728,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@69"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/CardEntry.m308466286#308466286#0(0"0(0#0#61"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/CardEntry.m8631483776#2254"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/CardEntry.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/CardEntry.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/CardEntry.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/CardEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/CardPayments.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/CardPayments.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357650.239886
 e307357650.445494
@@ -9855,6 +10978,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@67"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Country.m308466287#308466287#0(0"0(0#0#59"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Country.m8634024288#2250"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Country.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Country.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Country.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Country.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Currency.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Currency.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357649.707805
 e307357649.796499
@@ -9985,6 +11111,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@80"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/DescriptionAndNumber.m308466286#308466286#0(0"0(0#0#72"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/DescriptionAndNumber.m8631158240#2276"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/DescriptionAndNumber.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumber.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumber.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/DescriptionAndNumber.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumberCell.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/DescriptionAndNumberCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.915401
 e307357646.993998
@@ -10037,6 +11166,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@92"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/DescriptionAndNumberCell.m308466286#308466286#0(0"0(0#0#84"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/DescriptionAndNumberCell.m8632049312#2292"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/DescriptionAndNumberCell.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumberCell.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/DescriptionAndNumberCell.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/DescriptionAndNumberCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Entry.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Entry.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.576251
 e307357646.638654
@@ -10088,6 +11220,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Entry.m308466286#308466286#0(0"0(0#0#57"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Entry.m8631253888#2246"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Entry.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Entry.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Entry.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Entry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/ExchangeRate.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/ExchangeRate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357649.771577
@@ -10258,6 +11393,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@67"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/History.m308466286#308466286#0(0"0(0#0#59"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/History.m8629679840#2250"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/History.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/History.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/History.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/History.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HistoryTableCell.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/HistoryTableCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.087733
 e307357647.165612
@@ -10310,6 +11448,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@76"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/HistoryTableCell.m308466286#308466286#0(0"0(0#0#68"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/HistoryTableCell.m8623427168#2268"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/HistoryTableCell.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HistoryTableCell.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HistoryTableCell.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/HistoryTableCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HomeViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/HomeViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.307476
 e307357646.417305
@@ -10361,6 +11502,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@86"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/HomeViewController.m308466285#308466285#0(0"0(0#0#78"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/HomeViewController.m8631695328#2280"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/HomeViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HomeViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/HomeViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/HomeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Image.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Image.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357648.869569
@@ -10492,6 +11636,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Label2.m308466286#308466286#0(0"0(0#0#58"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Label2.m8630463232#2248"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Label2.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Label2.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Label2.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Label2.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/LoginViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/LoginViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.208031
 e307357646.307366
@@ -10543,6 +11690,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@87"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/LoginViewController.m308466285#308466285#0(0"0(0#0#79"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/LoginViewController.m8632554592#2282"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/LoginViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/LoginViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/LoginViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/LoginViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/MerchantItemData.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/MerchantItemData.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.543307
@@ -10596,6 +11746,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@76"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/MerchantItemData.m308466287#308466287#0(0"0(0#0#68"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/MerchantItemData.m8630500512#2268"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/MerchantItemData.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/MerchantItemData.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/MerchantItemData.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/MerchantItemData.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Model.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Model.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.417392
 e307357646.576137
@@ -10647,6 +11800,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Model.m308466285#308466286#0(0"0(0#0#57"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Model.m8631028768#2246"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Model.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Model.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Model.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Model.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/NetmoboFeefactorModel.o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/NetmoboFeefactorModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s308466287.437921
@@ -11025,6 +12181,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@97"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/PurchasePluginsViewController.m308466286#308466286#0(0"0(0#0#89"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/PurchasePluginsViewController.m8630605888#2302"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/PurchasePluginsViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchasePluginsViewController.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchasePluginsViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/PurchasePluginsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchaseProducts.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/PurchaseProducts.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.643605
 e307357647.712987
@@ -11076,6 +12235,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@76"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/PurchaseProducts.m308466287#308466287#0(0"0(0#0#68"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/PurchaseProducts.m8627996288#2268"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/PurchaseProducts.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchaseProducts.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/PurchaseProducts.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PurchaseProducts.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/RestTransport3.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/RestTransport3.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.919093
@@ -11207,6 +12369,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@89"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUp2ViewController.m308466286#308466286#0(0"0(0#0#81"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUp2ViewController.m8630793536#2286"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUp2ViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUp2ViewController.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUp2ViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUp2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUpViewController.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Classes/SignUpViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.416118
 e307357646.554888
@@ -11258,6 +12423,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@88"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUpViewController.m308466285#308466286#0(0"0(0#0#80"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUpViewController.m8628235008#2284"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Classes/SignUpViewController.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUpViewController.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/SignUpViewController.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/State.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/State.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357647.851431
@@ -11311,6 +12479,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/State.m308466287#308466287#0(0"0(0#0#57"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/State.m8633186944#2246"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/State.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/State.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/State.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/State.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/TextEntryCell.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/TextEntryCell.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357646.555005
 e307357646.638854
@@ -11362,6 +12533,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@73"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.m308466286#308466286#0(0"0(0#0#65"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.m8632626400#2262"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/TextEntryCell.o0#
+
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/TextEntryCell.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TextEntryCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/TransactionDetailRecord.o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/TransactionDetailRecord.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s307357651.690471
@@ -12234,6 +13408,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/main.m308466284#308466285#0(0"0(0#0#56"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/main.m8634456192#2244"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" -F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386 -I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources -include /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-eaiovveskdsuxogguzrhmbnfkylk/Aggregate_Prefix.pch -c /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/main.m -o /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/main.o0#
 
+CCompileC build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/main.o /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileXIB "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/AccountHistoryCell.xib"
 r0
 
@@ -12528,6 +13705,57 @@ xCompileXIB
 x/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.xib
 lSLF07#2@28"CompileXIB TextEntryCell.xib306919858#306919859#0(0"0(0#0#67"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.xib8625280128#630"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/TextEntryCell.nib" /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/TextEntryCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
 
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AccountHistoryCell.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/AggregateViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AccountHistoryViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardExpirationViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardTextEntryViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyCardViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyEditViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyInAppPurchaseViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/AddMoneyToBalanceViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/HomeViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/LoginViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/PurchasePluginsViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUp2ViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/Classes/SignUpViewController.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/MainWindow.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/PurchasePluginsCell.xib
+r0
+
+CCompileXIB /AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/TextEntryCell.xib
+r0
+
 CCpResource "build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Icon.png" Icon.png
 s306919862.462180
 e306919862.475690
@@ -12645,6 +13873,9 @@ x/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimul
 x/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart
 lSLF07#2@170"GenerateDSYMFile "build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app.dSYM" "build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart"308477631#308477631#0(0"0(0#0#141"/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart8642523200#497"    cd "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart" -o "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app.dSYM"0#
 
+CGenerateDSYMFile "/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app.dSYM" "/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart"
+r0
+
 CGenerateDSYMFile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Aggregate.app.dSYM /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Aggregate.app/Aggregate
 s306388413.581919
 e306388413.683863
@@ -12694,6 +13925,9 @@ xnormal
 xi386
 lSLF07#2@146"Link /AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart308477631#308477631#0(0"0(0#0#0"8659408736#1175"    cd "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator" "-L/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing" "-F/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator" -filelist "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Objects-normal/i386/Dynamic Pricing Quickstart.LinkFileList" -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework StoreKit -lNetmobo -o "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart"0#
 
+CLd "/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Dynamic Pricing Quickstart" normal i386
+r0
+
 CLd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Aggregate.app/Aggregate normal i386
 s306388413.410249
 e306388413.581783
@@ -12726,6 +13960,9 @@ xAggregate-Info.plist
 lSLF07#2@28"Process Aggregate-Info.plist306919857#306919857#0(0"0(0#0#70"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/Aggregate-Info.plist8601388320#556"    cd /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Aggregate-Info.plist -genpkginfo "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Info.plist"0#
 
 CProcessInfoPlistFile "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Info.plist" Aggregate-Info.plist
+r0
+
+CProcessInfoPlistFile "/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app/Info.plist" Aggregate-Info.plist
 r0
 
 CProcessInfoPlistFile /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Aggregate.app/Info.plist Aggregate-Info.plist
@@ -12776,6 +14013,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@31"Precompile Aggregate_Prefix.pch307357645#307357645#0(0"0(0#0#100"/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Aggregate_Prefix.pch8617004416#2435"    cd "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-generated-files.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-own-target-headers.hmap" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-all-target-headers.hmap" -iquote "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/Dynamic Pricing Quickstart-project-headers.hmap" "-F/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Debug-iphonesimulator" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Debug-iphonesimulator/include" -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources/i386" "-I/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/build/Aggregate.build/Debug-iphonesimulator/Aggregate.build/DerivedSources" -c "/AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate V25 in app via Manual working/Aggregate_Prefix.pch" -o /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gmmeffekwwvoixdjehfwahdrdlwh/Aggregate_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gqovdtsdsslpxydujylrwgnifjep/Aggregate_Prefix.pch.gch Aggregate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CProcessPCH /var/folders/e4/e4mPBpmIFD4ocEW4Yd532E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Aggregate_Prefix-gwbjuslylkrbzhcihkhsyfoxmmle/Aggregate_Prefix.pch.gch Aggregate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s308477628.457060
 e308477629.674124
@@ -12820,6 +14060,9 @@ r1
 xTouch
 x/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app
 lSLF07#2@120"Touch /AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app308477631#308477631#0(0"0(0#0#0"8641828256#335"    cd "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/AurisoftApps/Netmobo/Demos/01Aggregate/Dynamic Pricing/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app"0#
+
+CTouch "/AurisoftApps/Netmobo/Demos/01Aggregate/DynamicPricingIphoneDemo/build/Debug-iphonesimulator/Dynamic Pricing Quickstart.app"
+r0
 
 CTouch /AurisoftApps/Netmobo/Demos/01Aggregate/Aggregate/build/Debug-iphonesimulator/Aggregate.app
 s306388413.684060
